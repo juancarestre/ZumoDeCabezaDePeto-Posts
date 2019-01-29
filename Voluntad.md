@@ -3,4 +3,4 @@
 ##### Despues hare otros post explicando al detalle con temas tecnicos como esta construido este sitio web, les adelanto que es bastante ingenioso y me costo 0 pesos.
 #### Para finalizar:
       “En cuanto deseamos algo, lo perdemos totalmente; “somos” lo que deseamos, por tanto nunca lo obtenemos. Desea nada, y nada habra que no puedas realizar”
-       - Austin_Osman_Spare
+       - Austin_Osman_Spare 
